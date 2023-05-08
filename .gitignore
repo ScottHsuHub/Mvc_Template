@@ -363,3 +363,5 @@ MigrationBackup/
 FodyWeavers.xsd
 /Mvc_Demo/Mvc_Demo/bin
 /Mvc_Demo/Mvc_Demo/obj
+/Mvc_Demo/.vs
+/Mvc_Demo/Mvc_Demo/Mvc_Demo.csproj.user
